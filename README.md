@@ -18,4 +18,5 @@
   <h3><a href="https://drive.google.com/file/d/13aY9Ke2umQxbamFr4YQShUz_XJn-Cvgf/view?usp=sharing">🔗 [uPC! - Escopo Inicial]</a></h3>
   <h3><a href="https://drive.google.com/file/d/1Dq5crFf0-YMhRe2hcN98P-9JuXH_omKV/view?usp=sharing">🔗 [uPC! - Parte 2]</a></h3>
   <h3><a href="https://drive.google.com/file/d/1hvJ8ZACmLORi2aV_effKSZbaHUEgTVhz/view?usp=sharing">🔗 [uPC! - Casos de Uso]</a></h3>
+  <h3><a href="https://drive.google.com/file/d/1HCblcsSt9hTrxeBHMh9KmwaE5aF-1grO/view?usp=sharing">🔗 [uPC! - Relacionamentos de Casos de Uso]</a></h3>
 </div>
