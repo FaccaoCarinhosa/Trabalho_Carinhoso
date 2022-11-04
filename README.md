@@ -22,6 +22,7 @@
   <h3><a href="https://drive.google.com/file/d/1HCblcsSt9hTrxeBHMh9KmwaE5aF-1grO/view?usp=sharing">🔗 [uPC! - Relacionamentos de Casos de Uso]</a></h3>
   <h3><a href="https://drive.google.com/file/d/1-u37cmD1sG1TVrb969lrwnJ6kBGz1j30/view?usp=sharing">🔗 [uPC! - Diagrama de Classes]</a></h3>
   <h3><a href="https://drive.google.com/file/d/1RZXh4plTEu-VvicLSHqRA8e4kRDwXWfs/view?usp=share_link">🔗 [uPC! - Diagrama de Atividade]</a></h3>
+  <h3><a href="https://drive.google.com/file/d/16QRHd9HKBSoLzwKsGe8JVHRU56taz_Db/view?usp=sharing">🔗 [uPC! - Diagrama de Sequência]</a></h3>
 </div>
 
 
