@@ -28,4 +28,7 @@
   <h3><a href="https://drive.google.com/file/d/1-Tnl7GmY8iiDUG6qg6xFeoaVWWwQySRc/view?usp=sharing">🔗 [uPC! - Diagrama Conceitual ER]</a></h3>
 </div>
 
+<h3><a href="https://www.canva.com/design/DAFSD5tatY4/dCTx3LzDmCOpIVLD_PmBPA/view?utm_content=DAFSD5tatY4&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent">🔗 [uPC! - Slide Apresentação]</a></h3>
+</div>
+
 
